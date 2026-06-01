@@ -24,6 +24,4 @@ https://fakenewsdetectorapp.lovable.app/
 - React / TypeScript
 - PostgreSQL
 - AI/ML for detection
-- React / TypeScript
-- PostgreSQL
-- AI/ML for detection
+
