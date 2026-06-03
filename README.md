@@ -1,11 +1,21 @@
 # 🚨 AI-Powered Multi-Modal Fake News Detection System
 
-## 📋 Project Information
+## 👥 Team Members
 
 | | |
 |---|---|
-| **Student Name** | Fariha Nasir |
+| **Student 1** | Madiha Fatima Malik |
+| **Registration Number** | 2502908 |
+| **Role** | Frontend Development + UI/UX Design + Figma  |
+
+| | |
+|---|---|
+| **Student 2** | Fariha Nasir |
 | **Registration Number** | 2502882 |
+| **Role** | Backend Development + Database + API + Testing |
+
+| | |
+|---|---|
 | **Degree Program** | BS Software Engineering |
 | **Semester** | 4th |
 | **Section** | B |
@@ -38,17 +48,35 @@ This is a **Fake News Detection System** that uses Artificial Intelligence to de
 
 ---
 
+## 📋 Work Distribution
+
+| Student | Task | Status |
+|---------|------|--------|
+| **Madiha Fatima Malik (2502908)** | Figma UI Design | ✅ Complete |
+| **Madiha Fatima Malik (2502908)** | React.js Frontend | ✅ Complete |
+| **Madiha Fatima Malik (2502908)** | Browser Extension | ✅ Complete |
+| **Fariha Nasir (2502882)** | FastAPI Backend | ✅ Complete |
+| **Fariha Nasir (2502882)** | SQLite Database | ✅ Complete |
+| **Fariha Nasir (2502882)** | API Endpoints | ✅ Complete |
+| **Both Students** | Integration & Testing | ✅ Complete |
+| **Both Students** | Video Presentation | ✅ Complete |
+
+---
+
 ## 🛠️ Technologies Used
 
-| Technology | Purpose |
-|------------|---------|
-| Python 3.13 | Main programming language |
-| FastAPI | Backend web framework |
-| SQLite3 | Database |
-| Uvicorn | Server to run the API |
-| Pydantic | Data validation |
-| Pillow | Image processing |
-| Lovable.app | Frontend hosting |
+| Technology | Purpose | Used By |
+|------------|---------|---------|
+| Figma | UI Design | Madiha |
+| React.js | Frontend | Madiha |
+| TypeScript | Frontend | Madiha |
+| Python 3.13 | Backend | Fariha |
+| FastAPI | API Framework | Fariha |
+| SQLite3 | Database | Fariha |
+| Uvicorn | Server | Fariha |
+| Pydantic | Data Validation | Fariha |
+| Pillow | Image Processing | Fariha |
+| Lovable.app | Frontend Hosting | Madiha |
 
 ---
 
